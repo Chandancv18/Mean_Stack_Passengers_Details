@@ -1,0 +1,21 @@
+{
+ "name": "mymean_NEW",
+ "version": "0.0.1",
+ "author": "xxx",
+ "engines": {
+ "node": "13.5.0"
+ },
+ "dependencies": {
+ "vcap_services": "*",
+ "body-parser": "^1.15.2",
+ "ejs": "^3.0.1",
+ "express": "^4.14.0",
+ "mongodb": "^2.2.33"
+ },
+ "scripts": {
+ "start": "node mean_server1.js"
+ },
+ "main": "mean_server1.js",
+ "license": "ISC",
+ "description": ""
+} 
